@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf-reader/static/css/main.15e1edaa.css",
+    "main.js": "/pdf-reader/static/js/main.9191286e.js",
+    "static/js/488.422c7fec.chunk.js": "/pdf-reader/static/js/488.422c7fec.chunk.js",
+    "index.html": "/pdf-reader/index.html",
+    "main.15e1edaa.css.map": "/pdf-reader/static/css/main.15e1edaa.css.map",
+    "main.9191286e.js.map": "/pdf-reader/static/js/main.9191286e.js.map",
+    "488.422c7fec.chunk.js.map": "/pdf-reader/static/js/488.422c7fec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e1edaa.css",
+    "static/js/main.9191286e.js"
+  ]
+}
